@@ -1,5 +1,4 @@
 "# Email_Slicer" 
-"# Email_Slicer" 
  
 def email_slicer(email):
     # Check if email contains "@" and "." to ensure it's valid
